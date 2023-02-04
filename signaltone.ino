@@ -1,4 +1,5 @@
-#define PIN 4
+#define PIN D0
+//replace pin with your digital pin
 
 void setup()  {
   Serial.begin(115200);
