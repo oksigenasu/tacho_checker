@@ -1,5 +1,9 @@
 # tacho_checker
 Analog tachometer checker using arduino tone and optocoupler.
+
+# equation
+frequency (Hz) = RPM * cylinders/120
+
 # wiring diagram:
 ![wiring using optocoupler](wiring.jpg)
 
